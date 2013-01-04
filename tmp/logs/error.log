@@ -1,0 +1,1493 @@
+2013-01-03 10:13:12 Error: [MissingControllerException] Controller class FirmwaresvariantsController could not be found.
+#0 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-03 12:53:22 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'Codename'
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(459): PDOStatement->execute(Array)
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(425): DboSource->_execute('INSERT INTO `ca...', Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1007): DboSource->execute('INSERT INTO `ca...')
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Model.php(1735): DboSource->create(Object(Variant), Array, Array)
+#4 /home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/VariantsController.php(43): Model->save(Array)
+#5 [internal function]: VariantsController->add()
+#6 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(VariantsController), Array)
+#7 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#8 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(VariantsController), Object(CakeRequest), Object(CakeResponse))
+#9 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-01-03 12:54:59 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'Codename'
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(459): PDOStatement->execute(Array)
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(425): DboSource->_execute('INSERT INTO `ca...', Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1007): DboSource->execute('INSERT INTO `ca...')
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Model.php(1735): DboSource->create(Object(Variant), Array, Array)
+#4 /home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/VariantsController.php(43): Model->save(Array)
+#5 [internal function]: VariantsController->add()
+#6 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(VariantsController), Array)
+#7 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#8 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(VariantsController), Object(CakeRequest), Object(CakeResponse))
+#9 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-01-03 12:55:24 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'Codename'
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(459): PDOStatement->execute(Array)
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(425): DboSource->_execute('INSERT INTO `ca...', Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1007): DboSource->execute('INSERT INTO `ca...')
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Model.php(1735): DboSource->create(Object(Variant), Array, Array)
+#4 /home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/VariantsController.php(43): Model->save(Array)
+#5 [internal function]: VariantsController->add()
+#6 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(VariantsController), Array)
+#7 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#8 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(VariantsController), Object(CakeRequest), Object(CakeResponse))
+#9 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-01-03 12:55:49 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'Codename'
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(459): PDOStatement->execute(Array)
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(425): DboSource->_execute('INSERT INTO `ca...', Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1007): DboSource->execute('INSERT INTO `ca...')
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Model.php(1735): DboSource->create(Object(Variant), Array, Array)
+#4 /home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/VariantsController.php(43): Model->save(Array)
+#5 [internal function]: VariantsController->add()
+#6 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(VariantsController), Array)
+#7 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#8 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(VariantsController), Object(CakeRequest), Object(CakeResponse))
+#9 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-01-03 12:56:02 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'Codename'
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(459): PDOStatement->execute(Array)
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(425): DboSource->_execute('INSERT INTO `ca...', Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1007): DboSource->execute('INSERT INTO `ca...')
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Model.php(1735): DboSource->create(Object(Variant), Array, Array)
+#4 /home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/VariantsController.php(43): Model->save(Array)
+#5 [internal function]: VariantsController->add()
+#6 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(VariantsController), Array)
+#7 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#8 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(VariantsController), Object(CakeRequest), Object(CakeResponse))
+#9 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-01-03 12:57:13 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'Codename'
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(459): PDOStatement->execute(Array)
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(425): DboSource->_execute('INSERT INTO `ca...', Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1007): DboSource->execute('INSERT INTO `ca...')
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Model.php(1735): DboSource->create(Object(Variant), Array, Array)
+#4 /home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/VariantsController.php(43): Model->save(Array)
+#5 [internal function]: VariantsController->add()
+#6 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(VariantsController), Array)
+#7 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#8 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(VariantsController), Object(CakeRequest), Object(CakeResponse))
+#9 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-01-03 12:57:43 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'Codename'
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(459): PDOStatement->execute(Array)
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(425): DboSource->_execute('INSERT INTO `ca...', Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1007): DboSource->execute('INSERT INTO `ca...')
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Model.php(1735): DboSource->create(Object(Variant), Array, Array)
+#4 /home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/VariantsController.php(43): Model->save(Array)
+#5 [internal function]: VariantsController->add()
+#6 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(VariantsController), Array)
+#7 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#8 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(VariantsController), Object(CakeRequest), Object(CakeResponse))
+#9 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-01-03 12:58:23 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'Codename'
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(459): PDOStatement->execute(Array)
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(425): DboSource->_execute('INSERT INTO `ca...', Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1007): DboSource->execute('INSERT INTO `ca...')
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Model.php(1735): DboSource->create(Object(Variant), Array, Array)
+#4 /home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/VariantsController.php(43): Model->save(Array)
+#5 [internal function]: VariantsController->add()
+#6 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(VariantsController), Array)
+#7 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#8 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(VariantsController), Object(CakeRequest), Object(CakeResponse))
+#9 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-01-03 12:58:47 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'Codename'
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(459): PDOStatement->execute(Array)
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(425): DboSource->_execute('INSERT INTO `ca...', Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1007): DboSource->execute('INSERT INTO `ca...')
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Model.php(1735): DboSource->create(Object(Variant), Array, Array)
+#4 /home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/VariantsController.php(43): Model->save(Array)
+#5 [internal function]: VariantsController->add()
+#6 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(VariantsController), Array)
+#7 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#8 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(VariantsController), Object(CakeRequest), Object(CakeResponse))
+#9 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-01-03 12:58:57 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'Codename'
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(459): PDOStatement->execute(Array)
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(425): DboSource->_execute('INSERT INTO `ca...', Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1007): DboSource->execute('INSERT INTO `ca...')
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Model.php(1735): DboSource->create(Object(Variant), Array, Array)
+#4 /home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/VariantsController.php(43): Model->save(Array)
+#5 [internal function]: VariantsController->add()
+#6 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(VariantsController), Array)
+#7 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#8 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(VariantsController), Object(CakeRequest), Object(CakeResponse))
+#9 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-01-03 13:02:27 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'Codename'
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(459): PDOStatement->execute(Array)
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(425): DboSource->_execute('INSERT INTO `ca...', Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1007): DboSource->execute('INSERT INTO `ca...')
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Model.php(1735): DboSource->create(Object(Variant), Array, Array)
+#4 /home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/VariantsController.php(43): Model->save(Array)
+#5 [internal function]: VariantsController->add()
+#6 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(VariantsController), Array)
+#7 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#8 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(VariantsController), Object(CakeRequest), Object(CakeResponse))
+#9 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-01-03 13:02:34 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'Codename'
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(459): PDOStatement->execute(Array)
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(425): DboSource->_execute('INSERT INTO `ca...', Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1007): DboSource->execute('INSERT INTO `ca...')
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Model.php(1735): DboSource->create(Object(Variant), Array, Array)
+#4 /home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/VariantsController.php(43): Model->save(Array)
+#5 [internal function]: VariantsController->add()
+#6 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(VariantsController), Array)
+#7 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#8 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(VariantsController), Object(CakeRequest), Object(CakeResponse))
+#9 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-01-03 13:04:39 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'Codename'
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(459): PDOStatement->execute(Array)
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(425): DboSource->_execute('INSERT INTO `ca...', Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1007): DboSource->execute('INSERT INTO `ca...')
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Model.php(1735): DboSource->create(Object(Variant), Array, Array)
+#4 /home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/VariantsController.php(43): Model->save(Array)
+#5 [internal function]: VariantsController->add()
+#6 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(VariantsController), Array)
+#7 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#8 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(VariantsController), Object(CakeRequest), Object(CakeResponse))
+#9 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-01-03 13:05:22 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'Codename'
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(459): PDOStatement->execute(Array)
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(425): DboSource->_execute('INSERT INTO `ca...', Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1007): DboSource->execute('INSERT INTO `ca...')
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Model.php(1735): DboSource->create(Object(Variant), Array, Array)
+#4 /home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/VariantsController.php(43): Model->save(Array)
+#5 [internal function]: VariantsController->add()
+#6 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(VariantsController), Array)
+#7 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#8 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(VariantsController), Object(CakeRequest), Object(CakeResponse))
+#9 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-01-03 13:05:46 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'Codename'
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(459): PDOStatement->execute(Array)
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(425): DboSource->_execute('INSERT INTO `ca...', Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1007): DboSource->execute('INSERT INTO `ca...')
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Model.php(1735): DboSource->create(Object(Variant), Array, Array)
+#4 /home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/VariantsController.php(43): Model->save(Array)
+#5 [internal function]: VariantsController->add()
+#6 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(VariantsController), Array)
+#7 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#8 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(VariantsController), Object(CakeRequest), Object(CakeResponse))
+#9 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-01-03 13:07:03 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'Codename'
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(459): PDOStatement->execute(Array)
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(425): DboSource->_execute('INSERT INTO `ca...', Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1007): DboSource->execute('INSERT INTO `ca...')
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Model.php(1735): DboSource->create(Object(Variant), Array, Array)
+#4 /home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/VariantsController.php(43): Model->save(Array)
+#5 [internal function]: VariantsController->add()
+#6 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(VariantsController), Array)
+#7 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#8 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(VariantsController), Object(CakeRequest), Object(CakeResponse))
+#9 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-01-03 13:14:00 Error: [MissingViewException] View file "/home/nikhil/workspace/web_development/cakephp/apps/tcp/View/Updates/index.ctp" is missing.
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/View/View.php(473): View->_getViewFileName(NULL)
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(956): View->render(NULL, NULL)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->render()
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(UpdatesController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-01-03 13:14:09 Error: [MissingViewException] View file "/home/nikhil/workspace/web_development/cakephp/apps/tcp/View/Updates/index.ctp" is missing.
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/View/View.php(473): View->_getViewFileName(NULL)
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(956): View->render(NULL, NULL)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->render()
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(UpdatesController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-01-03 13:14:27 Error: [MissingViewException] View file "/home/nikhil/workspace/web_development/cakephp/apps/tcp/View/Updates/index.ctp" is missing.
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/View/View.php(473): View->_getViewFileName(NULL)
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(956): View->render(NULL, NULL)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->render()
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(UpdatesController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-01-03 14:32:09 Error: [MissingControllerException] Controller class UpdateController could not be found.
+#0 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-03 14:32:11 Error: Fatal Error (4): syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/UpdatesController.php, line 12]
+2013-01-03 14:32:11 Error: [FatalErrorException] syntax error, unexpected T_VARIABLE, expecting T_FUNCTION
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/nikhil/wo...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/nikhil/wo...', 12, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/nikhil/wo...', 12, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-03 14:32:40 Error: Fatal Error (4): syntax error, unexpected T_STRING, expecting T_FUNCTION in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/UpdatesController.php, line 12]
+2013-01-03 14:32:40 Error: [FatalErrorException] syntax error, unexpected T_STRING, expecting T_FUNCTION
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/nikhil/wo...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/nikhil/wo...', 12, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/nikhil/wo...', 12, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-03 14:32:41 Error: Fatal Error (4): syntax error, unexpected T_STRING, expecting T_FUNCTION in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/UpdatesController.php, line 12]
+2013-01-03 14:32:41 Error: [FatalErrorException] syntax error, unexpected T_STRING, expecting T_FUNCTION
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/nikhil/wo...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/nikhil/wo...', 12, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/nikhil/wo...', 12, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-03 14:32:41 Error: Fatal Error (4): syntax error, unexpected T_STRING, expecting T_FUNCTION in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/UpdatesController.php, line 12]
+2013-01-03 14:32:41 Error: [FatalErrorException] syntax error, unexpected T_STRING, expecting T_FUNCTION
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/nikhil/wo...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/nikhil/wo...', 12, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/nikhil/wo...', 12, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-03 14:32:41 Error: Fatal Error (4): syntax error, unexpected T_STRING, expecting T_FUNCTION in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/UpdatesController.php, line 12]
+2013-01-03 14:32:41 Error: [FatalErrorException] syntax error, unexpected T_STRING, expecting T_FUNCTION
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/nikhil/wo...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/nikhil/wo...', 12, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/nikhil/wo...', 12, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-03 14:33:27 Error: [MissingViewException] View file "/home/nikhil/workspace/web_development/cakephp/apps/tcp/View/Updates/index.ctp" is missing.
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/View/View.php(473): View->_getViewFileName(NULL)
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(956): View->render(NULL, NULL)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->render()
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(UpdatesController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-01-03 14:33:28 Error: [MissingViewException] View file "/home/nikhil/workspace/web_development/cakephp/apps/tcp/View/Updates/index.ctp" is missing.
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/View/View.php(473): View->_getViewFileName(NULL)
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(956): View->render(NULL, NULL)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->render()
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(UpdatesController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-01-04 11:48:50 Error: [MissingPluginException] Plugin FileUpload could not be found.
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(364): CakePlugin::path('FileUpload')
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(225): App::pluginPath('FileUpload')
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(542): App::path('Model/Behavior', 'FileUpload')
+#3 [internal function]: App::load('FileUploadBehav...')
+#4 [internal function]: spl_autoload_call('FileUploadBehav...')
+#5 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/BehaviorCollection.php(120): class_exists('FileUploadBehav...')
+#6 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/BehaviorCollection.php(67): BehaviorCollection->load('FileUpload.File...', Array)
+#7 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Model.php(737): BehaviorCollection->init('Firmware', Array)
+#8 [internal function]: Model->__construct(Array)
+#9 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Utility/ClassRegistry.php(156): ReflectionClass->newInstance(Array)
+#10 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(733): ClassRegistry::init(Array)
+#11 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(366): Controller->loadModel('Firmware')
+#12 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(404): Controller->__isset('Firmware')
+#13 /home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/FirmwaresController.php(16): Controller->__get('Firmware')
+#14 [internal function]: FirmwaresController->index()
+#15 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(FirmwaresController), Array)
+#16 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#17 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(FirmwaresController), Object(CakeRequest), Object(CakeResponse))
+#18 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#19 {main}
+2013-01-04 11:49:44 Error: [MissingPluginException] Plugin FileUpload could not be found.
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(364): CakePlugin::path('FileUpload')
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(225): App::pluginPath('FileUpload')
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(542): App::path('Model/Behavior', 'FileUpload')
+#3 [internal function]: App::load('FileUploadBehav...')
+#4 [internal function]: spl_autoload_call('FileUploadBehav...')
+#5 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/BehaviorCollection.php(120): class_exists('FileUploadBehav...')
+#6 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/BehaviorCollection.php(67): BehaviorCollection->load('FileUpload.File...', Array)
+#7 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Model.php(737): BehaviorCollection->init('Firmware', Array)
+#8 [internal function]: Model->__construct(Array)
+#9 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Utility/ClassRegistry.php(156): ReflectionClass->newInstance(Array)
+#10 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(733): ClassRegistry::init(Array)
+#11 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(366): Controller->loadModel('Firmware')
+#12 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(404): Controller->__isset('Firmware')
+#13 /home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/FirmwaresController.php(16): Controller->__get('Firmware')
+#14 [internal function]: FirmwaresController->index()
+#15 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(FirmwaresController), Array)
+#16 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#17 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(FirmwaresController), Object(CakeRequest), Object(CakeResponse))
+#18 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#19 {main}
+2013-01-04 11:49:45 Error: [MissingPluginException] Plugin FileUpload could not be found.
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(364): CakePlugin::path('FileUpload')
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(225): App::pluginPath('FileUpload')
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(542): App::path('Model/Behavior', 'FileUpload')
+#3 [internal function]: App::load('FileUploadBehav...')
+#4 [internal function]: spl_autoload_call('FileUploadBehav...')
+#5 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/BehaviorCollection.php(120): class_exists('FileUploadBehav...')
+#6 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/BehaviorCollection.php(67): BehaviorCollection->load('FileUpload.File...', Array)
+#7 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Model.php(737): BehaviorCollection->init('Firmware', Array)
+#8 [internal function]: Model->__construct(Array)
+#9 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Utility/ClassRegistry.php(156): ReflectionClass->newInstance(Array)
+#10 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(733): ClassRegistry::init(Array)
+#11 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(366): Controller->loadModel('Firmware')
+#12 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(404): Controller->__isset('Firmware')
+#13 /home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/FirmwaresController.php(16): Controller->__get('Firmware')
+#14 [internal function]: FirmwaresController->index()
+#15 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(FirmwaresController), Array)
+#16 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#17 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(FirmwaresController), Object(CakeRequest), Object(CakeResponse))
+#18 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#19 {main}
+2013-01-04 11:49:45 Error: [MissingPluginException] Plugin FileUpload could not be found.
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(364): CakePlugin::path('FileUpload')
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(225): App::pluginPath('FileUpload')
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(542): App::path('Model/Behavior', 'FileUpload')
+#3 [internal function]: App::load('FileUploadBehav...')
+#4 [internal function]: spl_autoload_call('FileUploadBehav...')
+#5 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/BehaviorCollection.php(120): class_exists('FileUploadBehav...')
+#6 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/BehaviorCollection.php(67): BehaviorCollection->load('FileUpload.File...', Array)
+#7 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Model.php(737): BehaviorCollection->init('Firmware', Array)
+#8 [internal function]: Model->__construct(Array)
+#9 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Utility/ClassRegistry.php(156): ReflectionClass->newInstance(Array)
+#10 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(733): ClassRegistry::init(Array)
+#11 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(366): Controller->loadModel('Firmware')
+#12 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(404): Controller->__isset('Firmware')
+#13 /home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/FirmwaresController.php(16): Controller->__get('Firmware')
+#14 [internal function]: FirmwaresController->index()
+#15 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(FirmwaresController), Array)
+#16 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#17 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(FirmwaresController), Object(CakeRequest), Object(CakeResponse))
+#18 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#19 {main}
+2013-01-04 11:49:45 Error: [MissingPluginException] Plugin FileUpload could not be found.
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(364): CakePlugin::path('FileUpload')
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(225): App::pluginPath('FileUpload')
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(542): App::path('Model/Behavior', 'FileUpload')
+#3 [internal function]: App::load('FileUploadBehav...')
+#4 [internal function]: spl_autoload_call('FileUploadBehav...')
+#5 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/BehaviorCollection.php(120): class_exists('FileUploadBehav...')
+#6 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/BehaviorCollection.php(67): BehaviorCollection->load('FileUpload.File...', Array)
+#7 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Model.php(737): BehaviorCollection->init('Firmware', Array)
+#8 [internal function]: Model->__construct(Array)
+#9 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Utility/ClassRegistry.php(156): ReflectionClass->newInstance(Array)
+#10 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(733): ClassRegistry::init(Array)
+#11 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(366): Controller->loadModel('Firmware')
+#12 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(404): Controller->__isset('Firmware')
+#13 /home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/FirmwaresController.php(16): Controller->__get('Firmware')
+#14 [internal function]: FirmwaresController->index()
+#15 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(FirmwaresController), Array)
+#16 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#17 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(FirmwaresController), Object(CakeRequest), Object(CakeResponse))
+#18 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#19 {main}
+2013-01-04 11:49:46 Error: [MissingPluginException] Plugin FileUpload could not be found.
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(364): CakePlugin::path('FileUpload')
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(225): App::pluginPath('FileUpload')
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(542): App::path('Model/Behavior', 'FileUpload')
+#3 [internal function]: App::load('FileUploadBehav...')
+#4 [internal function]: spl_autoload_call('FileUploadBehav...')
+#5 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/BehaviorCollection.php(120): class_exists('FileUploadBehav...')
+#6 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/BehaviorCollection.php(67): BehaviorCollection->load('FileUpload.File...', Array)
+#7 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Model.php(737): BehaviorCollection->init('Firmware', Array)
+#8 [internal function]: Model->__construct(Array)
+#9 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Utility/ClassRegistry.php(156): ReflectionClass->newInstance(Array)
+#10 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(733): ClassRegistry::init(Array)
+#11 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(366): Controller->loadModel('Firmware')
+#12 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(404): Controller->__isset('Firmware')
+#13 /home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/FirmwaresController.php(16): Controller->__get('Firmware')
+#14 [internal function]: FirmwaresController->index()
+#15 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(FirmwaresController), Array)
+#16 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#17 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(FirmwaresController), Object(CakeRequest), Object(CakeResponse))
+#18 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#19 {main}
+2013-01-04 11:49:46 Error: [MissingPluginException] Plugin FileUpload could not be found.
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(364): CakePlugin::path('FileUpload')
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(225): App::pluginPath('FileUpload')
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(542): App::path('Model/Behavior', 'FileUpload')
+#3 [internal function]: App::load('FileUploadBehav...')
+#4 [internal function]: spl_autoload_call('FileUploadBehav...')
+#5 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/BehaviorCollection.php(120): class_exists('FileUploadBehav...')
+#6 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/BehaviorCollection.php(67): BehaviorCollection->load('FileUpload.File...', Array)
+#7 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Model.php(737): BehaviorCollection->init('Firmware', Array)
+#8 [internal function]: Model->__construct(Array)
+#9 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Utility/ClassRegistry.php(156): ReflectionClass->newInstance(Array)
+#10 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(733): ClassRegistry::init(Array)
+#11 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(366): Controller->loadModel('Firmware')
+#12 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(404): Controller->__isset('Firmware')
+#13 /home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/FirmwaresController.php(16): Controller->__get('Firmware')
+#14 [internal function]: FirmwaresController->index()
+#15 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(FirmwaresController), Array)
+#16 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#17 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(FirmwaresController), Object(CakeRequest), Object(CakeResponse))
+#18 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#19 {main}
+2013-01-04 11:49:46 Error: [MissingPluginException] Plugin FileUpload could not be found.
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(364): CakePlugin::path('FileUpload')
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(225): App::pluginPath('FileUpload')
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(542): App::path('Model/Behavior', 'FileUpload')
+#3 [internal function]: App::load('FileUploadBehav...')
+#4 [internal function]: spl_autoload_call('FileUploadBehav...')
+#5 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/BehaviorCollection.php(120): class_exists('FileUploadBehav...')
+#6 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/BehaviorCollection.php(67): BehaviorCollection->load('FileUpload.File...', Array)
+#7 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Model.php(737): BehaviorCollection->init('Firmware', Array)
+#8 [internal function]: Model->__construct(Array)
+#9 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Utility/ClassRegistry.php(156): ReflectionClass->newInstance(Array)
+#10 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(733): ClassRegistry::init(Array)
+#11 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(366): Controller->loadModel('Firmware')
+#12 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(404): Controller->__isset('Firmware')
+#13 /home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/FirmwaresController.php(16): Controller->__get('Firmware')
+#14 [internal function]: FirmwaresController->index()
+#15 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(FirmwaresController), Array)
+#16 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#17 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(FirmwaresController), Object(CakeRequest), Object(CakeResponse))
+#18 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#19 {main}
+2013-01-04 11:49:46 Error: [MissingPluginException] Plugin FileUpload could not be found.
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(364): CakePlugin::path('FileUpload')
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(225): App::pluginPath('FileUpload')
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(542): App::path('Model/Behavior', 'FileUpload')
+#3 [internal function]: App::load('FileUploadBehav...')
+#4 [internal function]: spl_autoload_call('FileUploadBehav...')
+#5 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/BehaviorCollection.php(120): class_exists('FileUploadBehav...')
+#6 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/BehaviorCollection.php(67): BehaviorCollection->load('FileUpload.File...', Array)
+#7 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Model.php(737): BehaviorCollection->init('Firmware', Array)
+#8 [internal function]: Model->__construct(Array)
+#9 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Utility/ClassRegistry.php(156): ReflectionClass->newInstance(Array)
+#10 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(733): ClassRegistry::init(Array)
+#11 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(366): Controller->loadModel('Firmware')
+#12 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(404): Controller->__isset('Firmware')
+#13 /home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/FirmwaresController.php(16): Controller->__get('Firmware')
+#14 [internal function]: FirmwaresController->index()
+#15 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(FirmwaresController), Array)
+#16 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#17 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(FirmwaresController), Object(CakeRequest), Object(CakeResponse))
+#18 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#19 {main}
+2013-01-04 11:50:19 Error: [MissingBehaviorException] Behavior class FileUploadBehavior could not be found.
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/BehaviorCollection.php(67): BehaviorCollection->load('FileUpload.File...', Array)
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Model.php(737): BehaviorCollection->init('Firmware', Array)
+#2 [internal function]: Model->__construct(Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Utility/ClassRegistry.php(156): ReflectionClass->newInstance(Array)
+#4 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(733): ClassRegistry::init(Array)
+#5 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(366): Controller->loadModel('Firmware')
+#6 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(404): Controller->__isset('Firmware')
+#7 /home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/FirmwaresController.php(16): Controller->__get('Firmware')
+#8 [internal function]: FirmwaresController->index()
+#9 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(FirmwaresController), Array)
+#10 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#11 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(FirmwaresController), Object(CakeRequest), Object(CakeResponse))
+#12 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2013-01-04 11:50:20 Error: [MissingBehaviorException] Behavior class FileUploadBehavior could not be found.
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/BehaviorCollection.php(67): BehaviorCollection->load('FileUpload.File...', Array)
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Model.php(737): BehaviorCollection->init('Firmware', Array)
+#2 [internal function]: Model->__construct(Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Utility/ClassRegistry.php(156): ReflectionClass->newInstance(Array)
+#4 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(733): ClassRegistry::init(Array)
+#5 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(366): Controller->loadModel('Firmware')
+#6 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(404): Controller->__isset('Firmware')
+#7 /home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/FirmwaresController.php(16): Controller->__get('Firmware')
+#8 [internal function]: FirmwaresController->index()
+#9 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(FirmwaresController), Array)
+#10 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#11 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(FirmwaresController), Object(CakeRequest), Object(CakeResponse))
+#12 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2013-01-04 11:53:14 Error: [MissingBehaviorException] Behavior class FileUploadBehavior could not be found.
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/BehaviorCollection.php(67): BehaviorCollection->load('FileUpload.File...', Array)
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Model.php(737): BehaviorCollection->init('Firmware', Array)
+#2 [internal function]: Model->__construct(Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Utility/ClassRegistry.php(156): ReflectionClass->newInstance(Array)
+#4 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(733): ClassRegistry::init(Array)
+#5 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(366): Controller->loadModel('Firmware')
+#6 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(404): Controller->__isset('Firmware')
+#7 /home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/FirmwaresController.php(16): Controller->__get('Firmware')
+#8 [internal function]: FirmwaresController->index()
+#9 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(FirmwaresController), Array)
+#10 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#11 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(FirmwaresController), Object(CakeRequest), Object(CakeResponse))
+#12 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2013-01-04 11:53:15 Error: [MissingBehaviorException] Behavior class FileUploadBehavior could not be found.
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/BehaviorCollection.php(67): BehaviorCollection->load('FileUpload.File...', Array)
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Model.php(737): BehaviorCollection->init('Firmware', Array)
+#2 [internal function]: Model->__construct(Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Utility/ClassRegistry.php(156): ReflectionClass->newInstance(Array)
+#4 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(733): ClassRegistry::init(Array)
+#5 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(366): Controller->loadModel('Firmware')
+#6 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(404): Controller->__isset('Firmware')
+#7 /home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/FirmwaresController.php(16): Controller->__get('Firmware')
+#8 [internal function]: FirmwaresController->index()
+#9 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(FirmwaresController), Array)
+#10 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#11 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(FirmwaresController), Object(CakeRequest), Object(CakeResponse))
+#12 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2013-01-04 11:53:15 Error: [MissingBehaviorException] Behavior class FileUploadBehavior could not be found.
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/BehaviorCollection.php(67): BehaviorCollection->load('FileUpload.File...', Array)
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Model.php(737): BehaviorCollection->init('Firmware', Array)
+#2 [internal function]: Model->__construct(Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Utility/ClassRegistry.php(156): ReflectionClass->newInstance(Array)
+#4 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(733): ClassRegistry::init(Array)
+#5 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(366): Controller->loadModel('Firmware')
+#6 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(404): Controller->__isset('Firmware')
+#7 /home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/FirmwaresController.php(16): Controller->__get('Firmware')
+#8 [internal function]: FirmwaresController->index()
+#9 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(FirmwaresController), Array)
+#10 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#11 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(FirmwaresController), Object(CakeRequest), Object(CakeResponse))
+#12 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2013-01-04 11:53:16 Error: [MissingBehaviorException] Behavior class FileUploadBehavior could not be found.
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/BehaviorCollection.php(67): BehaviorCollection->load('FileUpload.File...', Array)
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Model.php(737): BehaviorCollection->init('Firmware', Array)
+#2 [internal function]: Model->__construct(Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Utility/ClassRegistry.php(156): ReflectionClass->newInstance(Array)
+#4 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(733): ClassRegistry::init(Array)
+#5 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(366): Controller->loadModel('Firmware')
+#6 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(404): Controller->__isset('Firmware')
+#7 /home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/FirmwaresController.php(16): Controller->__get('Firmware')
+#8 [internal function]: FirmwaresController->index()
+#9 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(FirmwaresController), Array)
+#10 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#11 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(FirmwaresController), Object(CakeRequest), Object(CakeResponse))
+#12 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2013-01-04 11:53:17 Error: [MissingBehaviorException] Behavior class FileUploadBehavior could not be found.
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/BehaviorCollection.php(67): BehaviorCollection->load('FileUpload.File...', Array)
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Model.php(737): BehaviorCollection->init('Firmware', Array)
+#2 [internal function]: Model->__construct(Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Utility/ClassRegistry.php(156): ReflectionClass->newInstance(Array)
+#4 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(733): ClassRegistry::init(Array)
+#5 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(366): Controller->loadModel('Firmware')
+#6 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(404): Controller->__isset('Firmware')
+#7 /home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/FirmwaresController.php(16): Controller->__get('Firmware')
+#8 [internal function]: FirmwaresController->index()
+#9 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(FirmwaresController), Array)
+#10 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#11 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(FirmwaresController), Object(CakeRequest), Object(CakeResponse))
+#12 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2013-01-04 11:53:17 Error: [MissingBehaviorException] Behavior class FileUploadBehavior could not be found.
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/BehaviorCollection.php(67): BehaviorCollection->load('FileUpload.File...', Array)
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Model.php(737): BehaviorCollection->init('Firmware', Array)
+#2 [internal function]: Model->__construct(Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Utility/ClassRegistry.php(156): ReflectionClass->newInstance(Array)
+#4 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(733): ClassRegistry::init(Array)
+#5 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(366): Controller->loadModel('Firmware')
+#6 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(404): Controller->__isset('Firmware')
+#7 /home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/FirmwaresController.php(16): Controller->__get('Firmware')
+#8 [internal function]: FirmwaresController->index()
+#9 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(FirmwaresController), Array)
+#10 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#11 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(FirmwaresController), Object(CakeRequest), Object(CakeResponse))
+#12 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2013-01-04 11:55:27 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/View/Firmwares/add.ctp, line 10]
+2013-01-04 11:55:27 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 10)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 10, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 10, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 11:57:00 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'field list'
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(459): PDOStatement->execute(Array)
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(425): DboSource->_execute('INSERT INTO `ca...', Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1007): DboSource->execute('INSERT INTO `ca...')
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Model.php(1735): DboSource->create(Object(Firmware), Array, Array)
+#4 /home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/FirmwaresController.php(43): Model->save(Array)
+#5 [internal function]: FirmwaresController->add()
+#6 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(FirmwaresController), Array)
+#7 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#8 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(FirmwaresController), Object(CakeRequest), Object(CakeResponse))
+#9 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-01-04 12:02:14 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'field list'
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(459): PDOStatement->execute(Array)
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(425): DboSource->_execute('INSERT INTO `ca...', Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1007): DboSource->execute('INSERT INTO `ca...')
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Model.php(1735): DboSource->create(Object(Firmware), Array, Array)
+#4 /home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/FirmwaresController.php(44): Model->save(Array)
+#5 [internal function]: FirmwaresController->add()
+#6 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(FirmwaresController), Array)
+#7 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#8 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(FirmwaresController), Object(CakeRequest), Object(CakeResponse))
+#9 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-01-04 12:52:06 Error: Fatal Error (1): Call to a member function showErrors() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/FirmwaresController.php, line 62]
+2013-01-04 12:52:06 Error: [FatalErrorException] Call to a member function showErrors() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 62)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 62, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 62, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 12:53:02 Error: [MissingComponentException] Component class FileUploadComponent could not be found.
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/ComponentCollection.php(52): ComponentCollection->load('FileUpload.File...', Array)
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(634): ComponentCollection->init(Object(FirmwaresController))
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(182): Controller->constructClasses()
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(FirmwaresController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-01-04 12:53:57 Error: [MissingHelperException] Helper class FileUploadHelper could not be found.
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/View/View.php(864): HelperCollection->load('FileUpload.File...', Array)
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/View/View.php(469): View->loadHelpers()
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(956): View->render(NULL, NULL)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->render()
+#4 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(FirmwaresController), Object(CakeRequest), Object(CakeResponse))
+#5 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2013-01-04 12:56:30 Error: Fatal Error (1): Class 'FileUploadSettings' not found in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 68]
+2013-01-04 12:56:30 Error: [FatalErrorException] Class 'FileUploadSettings' not found
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 68, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'FileUplo...', '/home/nikhil/wo...', 68, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 12:57:21 Error: Fatal Error (1): Class 'FileUploadSettings' not found in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 68]
+2013-01-04 12:57:21 Error: [FatalErrorException] Class 'FileUploadSettings' not found
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 68, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'FileUplo...', '/home/nikhil/wo...', 68, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 12:57:23 Error: Fatal Error (1): Class 'FileUploadSettings' not found in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 68]
+2013-01-04 12:57:23 Error: [FatalErrorException] Class 'FileUploadSettings' not found
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 68, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'FileUplo...', '/home/nikhil/wo...', 68, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 12:57:23 Error: Fatal Error (1): Class 'FileUploadSettings' not found in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 68]
+2013-01-04 12:57:23 Error: [FatalErrorException] Class 'FileUploadSettings' not found
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 68, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'FileUplo...', '/home/nikhil/wo...', 68, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 12:57:23 Error: Fatal Error (1): Class 'FileUploadSettings' not found in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 68]
+2013-01-04 12:57:23 Error: [FatalErrorException] Class 'FileUploadSettings' not found
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 68, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'FileUplo...', '/home/nikhil/wo...', 68, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 12:57:23 Error: Fatal Error (1): Class 'FileUploadSettings' not found in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 68]
+2013-01-04 12:57:23 Error: [FatalErrorException] Class 'FileUploadSettings' not found
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 68, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'FileUplo...', '/home/nikhil/wo...', 68, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 12:59:17 Error: Fatal Error (1): Class 'FileUploadSettings' not found in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 68]
+2013-01-04 12:59:17 Error: [FatalErrorException] Class 'FileUploadSettings' not found
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 68, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'FileUplo...', '/home/nikhil/wo...', 68, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 12:59:18 Error: Fatal Error (1): Class 'FileUploadSettings' not found in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 68]
+2013-01-04 12:59:18 Error: [FatalErrorException] Class 'FileUploadSettings' not found
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 68, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'FileUplo...', '/home/nikhil/wo...', 68, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 12:59:18 Error: Fatal Error (1): Class 'FileUploadSettings' not found in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 68]
+2013-01-04 12:59:18 Error: [FatalErrorException] Class 'FileUploadSettings' not found
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 68, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'FileUplo...', '/home/nikhil/wo...', 68, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 12:59:19 Error: Fatal Error (1): Class 'FileUploadSettings' not found in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 68]
+2013-01-04 12:59:19 Error: [FatalErrorException] Class 'FileUploadSettings' not found
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 68, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'FileUplo...', '/home/nikhil/wo...', 68, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 12:59:19 Error: Fatal Error (1): Class 'FileUploadSettings' not found in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 68]
+2013-01-04 12:59:19 Error: [FatalErrorException] Class 'FileUploadSettings' not found
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 68, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'FileUplo...', '/home/nikhil/wo...', 68, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 14:25:41 Error: Fatal Error (1): Class 'FileUploadSettings' not found in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 68]
+2013-01-04 14:25:41 Error: [FatalErrorException] Class 'FileUploadSettings' not found
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 68, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'FileUplo...', '/home/nikhil/wo...', 68, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 14:34:43 Error: Fatal Error (1): Class 'FileUploadSettings' not found in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 69]
+2013-01-04 14:34:43 Error: [FatalErrorException] Class 'FileUploadSettings' not found
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 69)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 69, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'FileUplo...', '/home/nikhil/wo...', 69, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 14:34:43 Error: Fatal Error (1): Class 'FileUploadSettings' not found in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 69]
+2013-01-04 14:34:43 Error: [FatalErrorException] Class 'FileUploadSettings' not found
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 69)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 69, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'FileUplo...', '/home/nikhil/wo...', 69, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 14:34:44 Error: Fatal Error (1): Class 'FileUploadSettings' not found in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 69]
+2013-01-04 14:34:44 Error: [FatalErrorException] Class 'FileUploadSettings' not found
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 69)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 69, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'FileUplo...', '/home/nikhil/wo...', 69, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 14:34:44 Error: Fatal Error (1): Class 'FileUploadSettings' not found in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 69]
+2013-01-04 14:34:44 Error: [FatalErrorException] Class 'FileUploadSettings' not found
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 69)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 69, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'FileUplo...', '/home/nikhil/wo...', 69, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 14:34:44 Error: Fatal Error (1): Class 'FileUploadSettings' not found in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 69]
+2013-01-04 14:34:44 Error: [FatalErrorException] Class 'FileUploadSettings' not found
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 69)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 69, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'FileUplo...', '/home/nikhil/wo...', 69, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 14:34:44 Error: Fatal Error (1): Class 'FileUploadSettings' not found in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 69]
+2013-01-04 14:34:44 Error: [FatalErrorException] Class 'FileUploadSettings' not found
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 69)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 69, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'FileUplo...', '/home/nikhil/wo...', 69, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 14:34:44 Error: Fatal Error (1): Class 'FileUploadSettings' not found in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 69]
+2013-01-04 14:34:44 Error: [FatalErrorException] Class 'FileUploadSettings' not found
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 69)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 69, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'FileUplo...', '/home/nikhil/wo...', 69, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 14:34:45 Error: Fatal Error (1): Class 'FileUploadSettings' not found in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 69]
+2013-01-04 14:34:45 Error: [FatalErrorException] Class 'FileUploadSettings' not found
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 69)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'FileUplo...', '/home/nikhil/wo...', 69, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'FileUplo...', '/home/nikhil/wo...', 69, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 14:35:19 Error: Fatal Error (64): require_once() [http://php.net/function.require]: Failed opening required '/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/Model/Behavior/../../config/file_upload_settings.php' (include_path='.:/usr/share/php:/usr/share/pear') in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/Model/Behavior/FileUploadBehavior.php, line 29]
+2013-01-04 14:35:19 Error: [FatalErrorException] require_once() [http://php.net/function.require]: Failed opening required '/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/Model/Behavior/../../config/file_upload_settings.php' (include_path='.:/usr/share/php:/usr/share/pear')
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(64, 'require_once() ...', '/home/nikhil/wo...', 29)
+#1 [internal function]: ErrorHandler::handleError(64, 'require_once() ...', '/home/nikhil/wo...', 29, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 64, 'require_once() ...', '/home/nikhil/wo...', 29, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 14:35:19 Error: Fatal Error (64): require_once() [http://php.net/function.require]: Failed opening required '/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/Model/Behavior/../../config/file_upload_settings.php' (include_path='.:/usr/share/php:/usr/share/pear') in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/Model/Behavior/FileUploadBehavior.php, line 29]
+2013-01-04 14:35:19 Error: [FatalErrorException] require_once() [http://php.net/function.require]: Failed opening required '/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/Model/Behavior/../../config/file_upload_settings.php' (include_path='.:/usr/share/php:/usr/share/pear')
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(64, 'require_once() ...', '/home/nikhil/wo...', 29)
+#1 [internal function]: ErrorHandler::handleError(64, 'require_once() ...', '/home/nikhil/wo...', 29, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 64, 'require_once() ...', '/home/nikhil/wo...', 29, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 14:35:20 Error: Fatal Error (64): require_once() [http://php.net/function.require]: Failed opening required '/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/Model/Behavior/../../config/file_upload_settings.php' (include_path='.:/usr/share/php:/usr/share/pear') in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/Model/Behavior/FileUploadBehavior.php, line 29]
+2013-01-04 14:35:20 Error: [FatalErrorException] require_once() [http://php.net/function.require]: Failed opening required '/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/Model/Behavior/../../config/file_upload_settings.php' (include_path='.:/usr/share/php:/usr/share/pear')
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(64, 'require_once() ...', '/home/nikhil/wo...', 29)
+#1 [internal function]: ErrorHandler::handleError(64, 'require_once() ...', '/home/nikhil/wo...', 29, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 64, 'require_once() ...', '/home/nikhil/wo...', 29, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 14:35:20 Error: Fatal Error (64): require_once() [http://php.net/function.require]: Failed opening required '/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/Model/Behavior/../../config/file_upload_settings.php' (include_path='.:/usr/share/php:/usr/share/pear') in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/Model/Behavior/FileUploadBehavior.php, line 29]
+2013-01-04 14:35:20 Error: [FatalErrorException] require_once() [http://php.net/function.require]: Failed opening required '/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/Model/Behavior/../../config/file_upload_settings.php' (include_path='.:/usr/share/php:/usr/share/pear')
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(64, 'require_once() ...', '/home/nikhil/wo...', 29)
+#1 [internal function]: ErrorHandler::handleError(64, 'require_once() ...', '/home/nikhil/wo...', 29, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 64, 'require_once() ...', '/home/nikhil/wo...', 29, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 14:36:03 Error: Fatal Error (1): require_once(): Cannot redeclare class fileuploadsettings in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/Model/Behavior/FileUploadBehavior.php, line 29]
+2013-01-04 14:36:03 Error: [FatalErrorException] require_once(): Cannot redeclare class fileuploadsettings
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'require_once():...', '/home/nikhil/wo...', 29)
+#1 [internal function]: ErrorHandler::handleError(1, 'require_once():...', '/home/nikhil/wo...', 29, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'require_once():...', '/home/nikhil/wo...', 29, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 14:36:03 Error: Fatal Error (1): require_once(): Cannot redeclare class fileuploadsettings in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/Model/Behavior/FileUploadBehavior.php, line 29]
+2013-01-04 14:36:03 Error: [FatalErrorException] require_once(): Cannot redeclare class fileuploadsettings
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'require_once():...', '/home/nikhil/wo...', 29)
+#1 [internal function]: ErrorHandler::handleError(1, 'require_once():...', '/home/nikhil/wo...', 29, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'require_once():...', '/home/nikhil/wo...', 29, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 14:36:03 Error: Fatal Error (1): require_once(): Cannot redeclare class fileuploadsettings in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/Model/Behavior/FileUploadBehavior.php, line 29]
+2013-01-04 14:36:03 Error: [FatalErrorException] require_once(): Cannot redeclare class fileuploadsettings
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'require_once():...', '/home/nikhil/wo...', 29)
+#1 [internal function]: ErrorHandler::handleError(1, 'require_once():...', '/home/nikhil/wo...', 29, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'require_once():...', '/home/nikhil/wo...', 29, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 14:36:04 Error: Fatal Error (1): require_once(): Cannot redeclare class fileuploadsettings in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/Model/Behavior/FileUploadBehavior.php, line 29]
+2013-01-04 14:36:04 Error: [FatalErrorException] require_once(): Cannot redeclare class fileuploadsettings
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'require_once():...', '/home/nikhil/wo...', 29)
+#1 [internal function]: ErrorHandler::handleError(1, 'require_once():...', '/home/nikhil/wo...', 29, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'require_once():...', '/home/nikhil/wo...', 29, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 14:36:04 Error: Fatal Error (1): require_once(): Cannot redeclare class fileuploadsettings in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/Model/Behavior/FileUploadBehavior.php, line 29]
+2013-01-04 14:36:04 Error: [FatalErrorException] require_once(): Cannot redeclare class fileuploadsettings
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'require_once():...', '/home/nikhil/wo...', 29)
+#1 [internal function]: ErrorHandler::handleError(1, 'require_once():...', '/home/nikhil/wo...', 29, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'require_once():...', '/home/nikhil/wo...', 29, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 14:36:04 Error: Fatal Error (1): require_once(): Cannot redeclare class fileuploadsettings in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/Model/Behavior/FileUploadBehavior.php, line 29]
+2013-01-04 14:36:04 Error: [FatalErrorException] require_once(): Cannot redeclare class fileuploadsettings
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'require_once():...', '/home/nikhil/wo...', 29)
+#1 [internal function]: ErrorHandler::handleError(1, 'require_once():...', '/home/nikhil/wo...', 29, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'require_once():...', '/home/nikhil/wo...', 29, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 14:39:57 Error: Fatal Error (1): Call to a member function showErrors() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/FirmwaresController.php, line 64]
+2013-01-04 14:39:57 Error: [FatalErrorException] Call to a member function showErrors() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 64)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 64, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 64, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 14:50:52 Error: Fatal Error (4): syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/FirmwaresController.php, line 12]
+2013-01-04 14:50:52 Error: [FatalErrorException] syntax error, unexpected T_VARIABLE, expecting T_FUNCTION
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/nikhil/wo...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/nikhil/wo...', 12, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/nikhil/wo...', 12, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 14:51:02 Error: Fatal Error (4): syntax error, unexpected T_STRING, expecting T_FUNCTION in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/FirmwaresController.php, line 12]
+2013-01-04 14:51:02 Error: [FatalErrorException] syntax error, unexpected T_STRING, expecting T_FUNCTION
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/nikhil/wo...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/nikhil/wo...', 12, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/nikhil/wo...', 12, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:18:15 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/View/Firmwares/add.ctp, line 11]
+2013-01-04 17:18:15 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 11)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 11, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 11, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:18:33 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 148]
+2013-01-04 17:18:33 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 148)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 148, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 148, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:19:21 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 148]
+2013-01-04 17:19:21 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 148)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 148, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 148, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:19:21 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 148]
+2013-01-04 17:19:21 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 148)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 148, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 148, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:19:22 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 148]
+2013-01-04 17:19:22 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 148)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 148, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 148, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:19:22 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 148]
+2013-01-04 17:19:22 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 148)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 148, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 148, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:22:59 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 149]
+2013-01-04 17:22:59 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 149)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:23:01 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 149]
+2013-01-04 17:23:01 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 149)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:23:03 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 149]
+2013-01-04 17:23:03 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 149)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:23:05 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 149]
+2013-01-04 17:23:05 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 149)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:23:05 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 149]
+2013-01-04 17:23:05 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 149)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:23:09 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 149]
+2013-01-04 17:23:09 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 149)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:23:10 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 149]
+2013-01-04 17:23:10 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 149)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:23:10 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 149]
+2013-01-04 17:23:10 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 149)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:23:11 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 149]
+2013-01-04 17:23:11 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 149)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:23:11 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 149]
+2013-01-04 17:23:11 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 149)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:23:11 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 149]
+2013-01-04 17:23:11 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 149)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:23:11 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 149]
+2013-01-04 17:23:11 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 149)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:23:12 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 149]
+2013-01-04 17:23:12 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 149)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:23:12 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 149]
+2013-01-04 17:23:12 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 149)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:23:21 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 149]
+2013-01-04 17:23:21 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 149)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:23:21 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 149]
+2013-01-04 17:23:21 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 149)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:23:21 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 149]
+2013-01-04 17:23:21 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 149)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:23:22 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 149]
+2013-01-04 17:23:22 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 149)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:23:22 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 149]
+2013-01-04 17:23:22 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 149)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:28:50 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 150]
+2013-01-04 17:28:50 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 150)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:28:50 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 150]
+2013-01-04 17:28:50 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 150)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:28:51 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 150]
+2013-01-04 17:28:51 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 150)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:28:51 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 150]
+2013-01-04 17:28:51 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 150)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:28:51 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 150]
+2013-01-04 17:28:51 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 150)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:28:51 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 150]
+2013-01-04 17:28:51 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 150)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:28:52 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 150]
+2013-01-04 17:28:52 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 150)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:28:52 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 150]
+2013-01-04 17:28:52 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 150)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:28:52 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 150]
+2013-01-04 17:28:52 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 150)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:28:52 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 150]
+2013-01-04 17:28:52 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 150)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:28:52 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 150]
+2013-01-04 17:28:52 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 150)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:28:53 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 150]
+2013-01-04 17:28:53 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 150)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:28:53 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 150]
+2013-01-04 17:28:53 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 150)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:28:54 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 150]
+2013-01-04 17:28:54 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 150)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:28:54 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 150]
+2013-01-04 17:28:54 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 150)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:28:54 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 150]
+2013-01-04 17:28:54 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 150)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:28:54 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 150]
+2013-01-04 17:28:54 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 150)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:28:54 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 150]
+2013-01-04 17:28:54 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 150)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:28:55 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 150]
+2013-01-04 17:28:55 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 150)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:28:55 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 150]
+2013-01-04 17:28:55 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 150)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:28:58 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 150]
+2013-01-04 17:28:58 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 150)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:29:13 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 149]
+2013-01-04 17:29:13 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 149)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:29:13 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 149]
+2013-01-04 17:29:13 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 149)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:29:14 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 149]
+2013-01-04 17:29:14 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 149)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:29:14 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 149]
+2013-01-04 17:29:14 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 149)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:29:14 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 149]
+2013-01-04 17:29:14 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 149)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:29:20 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 149]
+2013-01-04 17:29:20 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 149)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:29:20 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 149]
+2013-01-04 17:29:20 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 149)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:29:20 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 149]
+2013-01-04 17:29:20 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 149)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 149, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:33:52 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 150]
+2013-01-04 17:33:52 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 150)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 150, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:36:40 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 152]
+2013-01-04 17:36:40 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 152)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 152, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 152, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:36:40 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 152]
+2013-01-04 17:36:40 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 152)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 152, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 152, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:36:41 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 152]
+2013-01-04 17:36:41 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 152)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 152, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 152, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:36:41 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 152]
+2013-01-04 17:36:41 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 152)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 152, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 152, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:37:42 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 152]
+2013-01-04 17:37:42 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 152)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 152, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 152, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:37:42 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 152]
+2013-01-04 17:37:42 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 152)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 152, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 152, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:37:42 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 152]
+2013-01-04 17:37:42 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 152)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 152, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 152, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:37:43 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 152]
+2013-01-04 17:37:43 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 152)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 152, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 152, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:37:43 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 152]
+2013-01-04 17:37:43 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 152)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 152, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 152, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:37:43 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 152]
+2013-01-04 17:37:43 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 152)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 152, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 152, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:43:26 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 152]
+2013-01-04 17:43:26 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 152)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 152, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 152, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:43:27 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 152]
+2013-01-04 17:43:27 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 152)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 152, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 152, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:43:27 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 152]
+2013-01-04 17:43:27 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 152)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 152, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 152, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:43:27 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 152]
+2013-01-04 17:43:27 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 152)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 152, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 152, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:43:27 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 152]
+2013-01-04 17:43:27 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 152)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 152, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 152, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:43:28 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 152]
+2013-01-04 17:43:28 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 152)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 152, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 152, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 17:43:28 Error: Fatal Error (1): Call to a member function input() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/View/Helper/FileUploadHelper.php, line 152]
+2013-01-04 17:43:28 Error: [FatalErrorException] Call to a member function input() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 152)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 152, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 152, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-04 18:01:17 Error: [MissingTableException] Table uploads for model Upload was not found in datasource default.
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Model.php(3191): Model->setSource('uploads')
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Model.php(2201): Model->getDataSource()
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Model/Model.php(2040): Model->saveAssociated(Array, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/Controller/Component/FileUploadComponent.php(289): Model->saveAll(Array)
+#4 /home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/Controller/Component/FileUploadComponent.php(344): FileUploadComponent->processFile()
+#5 /home/nikhil/workspace/web_development/cakephp/apps/tcp/Plugin/FileUpload/Controller/Component/FileUploadComponent.php(185): FileUploadComponent->processAllFiles()
+#6 [internal function]: FileUploadComponent->startup(Object(FirmwaresController))
+#7 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Utility/ObjectCollection.php(130): call_user_func_array(Array, Array)
+#8 [internal function]: ObjectCollection->trigger(Object(CakeEvent))
+#9 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Event/CakeEventManager.php(246): call_user_func(Array, Object(CakeEvent))
+#10 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(670): CakeEventManager->dispatch(Object(CakeEvent))
+#11 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(183): Controller->startupProcess()
+#12 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(FirmwaresController), Object(CakeRequest), Object(CakeResponse))
+#13 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
