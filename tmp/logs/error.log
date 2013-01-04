@@ -1491,3 +1491,73 @@
 #12 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(FirmwaresController), Object(CakeRequest), Object(CakeResponse))
 #13 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #14 {main}
+2013-01-04 19:30:35 Error: [NotFoundException] Invalid firmware
+#0 [internal function]: FirmwaresController->delete('4')
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(FirmwaresController), Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(FirmwaresController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-01-04 19:39:21 Error: [MethodNotAllowedException] Method Not Allowed
+#0 [internal function]: FirmwaresController->delete('5')
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(FirmwaresController), Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(FirmwaresController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-01-04 19:39:56 Error: [NotFoundException] Invalid firmware
+#0 [internal function]: FirmwaresController->delete('5')
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(FirmwaresController), Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(FirmwaresController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-01-04 19:41:02 Error: [NotFoundException] Invalid firmware
+#0 [internal function]: FirmwaresController->delete('3')
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(FirmwaresController), Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(FirmwaresController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-01-04 19:41:06 Error: [MethodNotAllowedException] Method Not Allowed
+#0 [internal function]: FirmwaresController->delete('2')
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(FirmwaresController), Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(FirmwaresController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-01-04 19:45:48 Error: [NotFoundException] Invalid firmware
+#0 [internal function]: FirmwaresController->delete('2')
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(FirmwaresController), Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(FirmwaresController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-01-04 19:51:42 Error: [NotFoundException] Invalid firmware
+#0 [internal function]: FirmwaresController->delete('1')
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(FirmwaresController), Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(FirmwaresController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-01-04 20:30:51 Error: [MissingPluginException] Plugin FileUpload could not be found.
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(364): CakePlugin::path('FileUpload')
+#1 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(225): App::pluginPath('FileUpload')
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(542): App::path('Controller/Comp...', 'FileUpload')
+#3 [internal function]: App::load('FileUploadCompo...')
+#4 [internal function]: spl_autoload_call('FileUploadCompo...')
+#5 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/ComponentCollection.php(99): class_exists('FileUploadCompo...')
+#6 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/ComponentCollection.php(52): ComponentCollection->load('FileUpload.File...', Array)
+#7 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Controller/Controller.php(634): ComponentCollection->init(Object(FirmwaresController))
+#8 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(182): Controller->constructClasses()
+#9 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(FirmwaresController), Object(CakeRequest), Object(CakeResponse))
+#10 /home/nikhil/workspace/web_development/cakephp/apps/tcp/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-01-04 20:31:46 Error: Fatal Error (1): Call to a member function showErrors() on a non-object in [/home/nikhil/workspace/web_development/cakephp/apps/tcp/Controller/FirmwaresController.php, line 67]
+2013-01-04 20:31:46 Error: [FatalErrorException] Call to a member function showErrors() on a non-object
+#0 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/nikhil/wo...', 67)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/nikhil/wo...', 67, Array)
+#2 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/nikhil/wo...', 67, Array)
+#3 /home/nikhil/workspace/web_development/cakephp/cakephp/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}

@@ -82,7 +82,7 @@ class Firmware extends AppModel {
 			'insertQuery' => ''
 		)
 	);
-
+/*
     public $belongsTo = array(
         'Upload' => array(
             'className' => 'Upload',
@@ -92,8 +92,17 @@ class Firmware extends AppModel {
             'order' => ''
         )
     );
-
+*/
     // Plugin for file upload
-    public $actsAs = array('FileUpload.FileUpload');
+   // public $actsAs = array('FileUpload.FileUpload');
+    public $actsAs = array(
+        'Upload.Upload' => array(
+            'filename' => array(
+                'fields' => array(
+                    'dir' => 'file_directory'
+                )
+            )
+        )
+    );
 
 }

@@ -4,10 +4,11 @@
 		<legend><?php echo __('Add Firmware'); ?></legend>
 	<?php
 		echo $this->Form->input('version');
-		echo $this->Form->input('file_link');
+		//echo $this->Form->input('file_link');
 		echo $this->Form->input('Codename');
 		echo $this->Form->input('Variant');
-        echo $this->Form->input('Upload.0.file', array('type' => 'file'));
+        echo $this->Form->input('filename', array('type' => 'file'));
+        echo $this->Form->input('file_directory',array('type' => 'hidden'))
         //echo $this->FileUpload->input();
 	?>
 	</fieldset>

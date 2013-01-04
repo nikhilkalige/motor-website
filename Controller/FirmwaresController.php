@@ -7,8 +7,8 @@ App::uses('AppController', 'Controller');
  */
 class FirmwaresController extends AppController
 {
-    public $helpers = array('Html', 'Form', 'FileUpload.FileUpload');
-    public $components = array('FileUpload.FileUpload');
+    public $helpers = array('Html', 'Form');
+    //public $components = array('FileUpload.FileUpload');
 
 
 /**
@@ -44,7 +44,7 @@ class FirmwaresController extends AppController
 	public function add() {
 
         pr($this->request->data);
-		/*if ($this->request->is('post')) {
+		if ($this->request->is('post')) {
 			$this->Firmware->create();
 			if ($this->Firmware->save($this->request->data)) {
 				$this->Session->setFlash(__('The firmware has been saved'));
@@ -54,8 +54,8 @@ class FirmwaresController extends AppController
 			}
 		}
 		$variants = $this->Firmware->Variant->find('list');
-		$this->set(compact('variants'));*/
-        if(!empty($this->data))
+		$this->set(compact('variants'));
+        /*if(!empty($this->data))
         {
             if($this->FileUpload->success)
             {
@@ -66,7 +66,7 @@ class FirmwaresController extends AppController
             {
                 $this->Session->setFlash($this->FileUpload->showErrors());
             }
-        }
+        }*/
 	}
 
 /**
